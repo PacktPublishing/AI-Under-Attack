@@ -1,2 +1,2 @@
-# Practical-AI-Security
-Practical AI Security, published by Packt
+# AI Under Attack
+AI Under Attack, published by Packt
